@@ -1,5 +1,5 @@
 ---
-title:          "Light Field Super-Resolution \\with Hybrid Attention Network"
+title:          "Light Field Super-Resolution with Hybrid Attention Network"
 date:           2025-01-09 00:01:00 +0800
 selected:       true
 # pub:            "International Conference on Machine Learning (ICML)"
