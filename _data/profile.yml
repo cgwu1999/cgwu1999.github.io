@@ -2,10 +2,10 @@ primary_name: "Changguang Wu"
 secondary_name: "吴昌广"
 navbar_name: "Changguang Wu"
 
-positions:
-- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
-  name: Position 1 with logo
-- name: Position 2 without logo
+# positions:
+# - logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+#   name: Position 1 with logo
+# - name: Position 2 without logo
 
 
 email: "changguangwu@njust.edu.cn"
