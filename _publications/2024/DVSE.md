@@ -18,8 +18,7 @@ authors:
     - Anqi Zhao 
     - Dehua Peng
     - Huayi Wu
-# links:
-#   project: https://plenodium.github.com
-linke:
+
+links:
     Arxiv: https://arxiv.org/pdf/2309.08154
 ---
