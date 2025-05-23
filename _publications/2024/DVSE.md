@@ -1,6 +1,6 @@
 ---
 title:   "Dynamic Visual Semantic Sub-Embeddings and Fast Re-Ranking"
-date:           2024-02-6 00:01:00 +0800
+date:           2024-09-06 00:01:00 +0800
 selected:       true
 pub:            "IEEE Transactions on Multimedia"
 # pub_pre:        "Submitted to "
