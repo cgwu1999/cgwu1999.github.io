@@ -9,7 +9,7 @@ pub_post:       'Under review.'
 # pub_date:       "2024"
 
 abstract: >-
-  we present an effective and efficient approach for low-light image enhancement, named <b>S</b>parse <b>SC</b>urve <b>SE</b>stimation (<b>SSCE</b>).
+  we present an effective and efficient approach for low-light image enhancement, named <b>S</b>parse <b>C</b>urve <b>E</b>stimation (<b>SCE</b>).
 cover:  /assets/images/covers/sce.png
 authors:
   - Changguang Wu
