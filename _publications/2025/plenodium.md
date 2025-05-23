@@ -9,7 +9,7 @@ pub_post:       'Under review.'
 # pub_date:       "2024"
 
 abstract: >-
-  We present <i>Plenodium</i> (<i>plenoptic medium</i>), an effective and efficient 3D representation framework capable of jointly modeling both objects and participating media. In contrast to existing medium representations that rely solely on view-dependent modeling, our novel plenoptic medium representation incorporates both directional and positional information through spherical harmonics encoding, enabling highly accurate underwater scene reconstruction. To address the initialization challenge in degraded underwater environments, we propose the pseudo-depth Gaussian complementation to augment COLMAP-derived point clouds with robust depth priors. In addition, a depth ranking regularized loss is developed to optimize the geometry of the scene and improve the ordinal consistency of the depth maps. 
+  We present <i>Plenodium</i> (<i>plenoptic medium</i>), an effective and efficient 3D representation framework capable of jointly modeling both objects and participating media.  
 cover:          /assets/images/covers/plenodium.png
 authors:
   - Changguang Wu
