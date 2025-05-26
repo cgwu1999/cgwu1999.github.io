@@ -17,5 +17,5 @@ authors:
   - Chengjian Li
   - Jinhui Tang
 links:
-  project: https://plenodium.github.com
+  project: https://plenodium.github.io
 ---
